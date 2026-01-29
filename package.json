@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@elevenlabs/convai-widget-embed": "^0.8.1",
     "@elevenlabs/react": "^0.13.1",
     "@elevenlabs/react-native": "^0.5.8",
     "@livekit/react-native": "^2.9.6",
